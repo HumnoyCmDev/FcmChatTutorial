@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FcmChatTutorial</string>
+    <string-array name="time_days_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string name="time_today">Today</string>
+    <string name="time_yesterday">Yesterday</string>
+</resources>
